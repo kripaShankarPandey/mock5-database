@@ -5,6 +5,12 @@
       "title": "json-server",
       "author": "typicode"
     }
+  ],
+  "test":[
+    {
+      "id":2,
+      "name":"mao"
+    }
   ]
 
 }
