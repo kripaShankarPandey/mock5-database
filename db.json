@@ -8,11 +8,25 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Jimmy",
+      "age": 8,
+      "place": "Basti",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "kittu",
+      "age": 7,
+      "place": "Ayodhya",
+      "gender": "Male"
     }
   ]
 }
