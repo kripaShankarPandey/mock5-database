@@ -29,38 +29,70 @@
       "gender": "Male"
     }
   ],
-  
-    "cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-        "year": 2019,
-        "type":"Manual",
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      },
-      {
-        "id": 2,
-        "brand": "Tata",
-        "type":"AMT",
-        "year": 2017,
-        "kms": 8000,
-        "Description": "Tata Nexon with all original documents",
-        "Price": 800000
-      }
-    ],
+
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    }
+  ],
   "wishlisted_cars": [
-      {
-        "id": 1,
-        "brand": "Tata",
-        "year": 2019,
-        "type":"Manual",
-        "kms": 10000,
-        "Description": "Tata Altroz with all original documents",
-        "Price": 500000
-      }
-    ]
-  
-  
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ],
+  "products": [
+    {
+      "image": "https://images.meesho.com/images/products/44973283/jp042_400.webp",
+      "name": "Designer Jeans",
+      "description": "L,Zard Slim Fit Men's Jeans",
+      "gender": "male",
+      "category": "Jeans",
+      "price": 500
+    },
+    {
+      "image": "https://images.meesho.com/images/products/116954068/xhph2_512.webp",
+      "name": "Designer Shirt",
+      "description": "TRENDING DOTTED SHIRT FOR MEN PACK OF 1",
+      "gender": "male",
+      "category": "Shirts",
+      "price": 300
+    },
+    {
+      "image": "https://images.meesho.com/images/products/197872414/ivxyn_512.webp",
+      "name": "sharee",
+      "description": "Womens saree good quality",
+      "gender": "female",
+      "category": "Saree",
+      "price": 600
+    },
+    {
+      "image": "https://images.meesho.com/images/products/161852181/szisg_512.webp",
+      "name": "Kurti",
+      "description": "Womens Kurti good quality",
+      "gender": "female",
+      "category": "Kurti",
+      "price": 700
+    }
+  ]
 }
