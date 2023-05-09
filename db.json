@@ -109,5 +109,31 @@
       "Correct_answers": 10,
       "Incorrect_answers": 15
     }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "f_name": "Vijay",
+      "l_name": "kumar",
+      "email": "vaijay@gmail.com",
+      "department": "Tech",
+      "salary": 22000
+    },
+    {
+      "id": 2,
+      "f_name": "Ajay",
+      "l_name": "kumar",
+      "email": "ajay@gmail.com",
+      "department": "Marketing",
+      "salary": 32000
+    },
+    {
+      "id": 3,
+      "f_name": "John",
+      "l_name": "volt",
+      "email": "john@gmail.com",
+      "department": "Operations ",
+      "salary": 42000
+    }
   ]
 }
