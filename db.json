@@ -163,5 +163,20 @@
     }
   ],
   "mock15userData": [{ "id": 1, "email": "k@gmail.com", "password": "12345" }],
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1,
+      "amount": "10000",
+      "category": "Salary",
+      "date": "2023-05-11",
+      "type": "Income"
+    },
+    {
+      "id": 2,
+      "amount": "14000",
+      "category": "Salary",
+      "date": "2023-05-12",
+      "type": "Income"
+    }
+  ]
 }
