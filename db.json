@@ -162,6 +162,6 @@
       "Stock": 8
     }
   ],
-  "mock15userData": [],
+  "mock15userData": [{ "id": 1, "email": "k@gmail.com", "password": "12345" }],
   "transactions": []
 }
